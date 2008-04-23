@@ -7,7 +7,7 @@ Standards-Version: 3.7.2
 
 Package: mib2opennms
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, perl-base
 Description: Create OpenNMS configuration from MIB files
  A tool to create OpenNMS event XML configuration from
  BER MIB text files.
