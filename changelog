@@ -1,3 +1,9 @@
+mib2opennms (0.3.2-1) unstable; urgency=low
+
+  * Minor build changes.
+
+ -- Benjamin Reed <ranger@opennms.org>  Tue, 21 Apr 2009 11:51:00 -0500
+
 mib2opennms (0.3.1-1) unstable; urgency=low
 
   * Initial release as separately versioned package in debian
