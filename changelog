@@ -1,3 +1,15 @@
+mib2opennms (0.3.3-2) unstable; urgency=low
+
+  * Rebuild against latest libsmi.
+
+ -- Benjamin Reed <ranger@opennms.org>  Wed, 23 Jun 2010 17:46:00 -0500
+
+mib2opennms (0.3.3-1) unstable; urgency=low
+
+  * Minor build changes.
+
+ -- Benjamin Reed <ranger@opennms.org>  Tue, 21 Apr 2009 11:51:00 -0500
+
 mib2opennms (0.3.2-1) unstable; urgency=low
 
   * Minor build changes.
